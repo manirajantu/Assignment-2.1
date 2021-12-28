@@ -80,28 +80,29 @@ Discussion Points:
 
 1. What are the version control tools used in the industry?
 
-Git
-CVS
-SVN
-Mercurial
-Monotone
-Bazaar
-TFS
-VSTS
-Perforce Helix Core 
-IBM Rational ClearCase
-Revision Control System 
-Visual SourceSafe(VSS) 
-CA Harvest Software Change 
-Manager
-PVCS 
-Darcs
-Bitbucket
-AWS CodeCommit
 
+•	Git
+•	CVS
+•	SVN
+•	Mercurial
+•	Monotone
+•	Bazaar
+•	TFS
+•	VSTS
+•	Perforce Helix Core
+•	IBM Rational ClearCase
+•	Revision Control System
+•	Visual SourceSafe(VSS)
+•	CA Harvest Software Change
+•	Manager
+•	PVCS
+•	Darcs
+•	Bitbucket
+•	AWS CodeCommit
 
+ 
 
-2. Why are they being used?
+1. Why are they being used?
 
 Version control software keeps track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
 
